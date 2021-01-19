@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.4)  18 JAN 2021 16:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.4)  19 JAN 2021 17:04
 entering extended mode
 **./_main.tex
 (_main.tex
@@ -859,42 +859,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 3489--3492
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3531--3533
+Underfull \hbox (badness 10000) in paragraph at lines 3544--3546
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3533--3535
+Underfull \hbox (badness 10000) in paragraph at lines 3546--3548
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3535--3537
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3537--3539
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3539--3541
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3541--3544
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3544--3547
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3547--3550
+Underfull \hbox (badness 10000) in paragraph at lines 3548--3550
 
  []
 
@@ -903,85 +878,131 @@ Underfull \hbox (badness 10000) in paragraph at lines 3550--3552
 
  []
 
-[64]
+
 Underfull \hbox (badness 10000) in paragraph at lines 3552--3554
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3554--3556
+Underfull \hbox (badness 10000) in paragraph at lines 3554--3557
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 3557--3560
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3556--3559
+Underfull \hbox (badness 10000) in paragraph at lines 3560--3563
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3559--3561
+Underfull \hbox (badness 10000) in paragraph at lines 3563--3565
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3561--3563
+Underfull \hbox (badness 10000) in paragraph at lines 3565--3567
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3563--3566
+Underfull \hbox (badness 10000) in paragraph at lines 3567--3569
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3566--3568
+Underfull \hbox (badness 10000) in paragraph at lines 3569--3572
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3568--3571
+Underfull \hbox (badness 10000) in paragraph at lines 3572--3574
 
  []
 
-[65] [66]
-Overfull \hbox (5.86626pt too wide) in paragraph at lines 3733--3733
+
+Underfull \hbox (badness 10000) in paragraph at lines 3574--3576
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3576--3579
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3579--3581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3581--3584
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3584--3587
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3587--3589
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3591--3594
+
+ []
+
+[65]
+Underfull \vbox (badness 7203) has occurred while \output is active []
+
+[66]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[67]
+Overfull \hbox (5.86626pt too wide) in paragraph at lines 3755--3755
 []            \T1/lmtt/m/n/12 Se você é gentil, as pessoas podem acusá-lo de eg
 oísta e interesseiro.[] 
  []
 
 
-Overfull \hbox (61.44128pt too wide) in paragraph at lines 3733--3733
+Overfull \hbox (61.44128pt too wide) in paragraph at lines 3755--3755
 []            \T1/lmtt/m/n/12 Se você é um vencedor, terá alguns falsos amigos 
 e alguns inimigos verdadeiros.[] 
  []
 
 
-Overfull \hbox (79.9663pt too wide) in paragraph at lines 3733--3733
+Overfull \hbox (79.9663pt too wide) in paragraph at lines 3755--3755
 []            \T1/lmtt/m/n/12 O que você levou anos para construir, alguém pode
  destruir de uma hora para outra.[] 
  []
 
-[67] [68]
-Overfull \hbox (42.91628pt too wide) in paragraph at lines 3812--3812
+[68]
+Overfull \hbox (42.91628pt too wide) in paragraph at lines 3834--3834
 []            \T1/lmtt/m/n/12 Ah, como esse me dá trabalho: é teimoso, às vezes
  só quer morar em um lugar.[] 
  []
 
 [69] [70]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3898.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3920.
 [71]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3898.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3920.
 (_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3898.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3898.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3920.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3920.
 
 Package rerunfilecheck Info: File `_main.out' has not changed.
 (rerunfilecheck)             Checksum: D68533A1B46CD05AF6217AD782B4802D;2197.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3898.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3920.
  ) 
 Here is how much of TeX's memory you used:
- 13911 strings out of 492453
- 201362 string characters out of 3129811
+ 13916 strings out of 492453
+ 201397 string characters out of 3129811
  326846 words of memory out of 3000000
  17662 multiletter control sequences out of 15000+200000
  74147 words of font info for 151 fonts, out of 3000000 for 9000
@@ -994,9 +1015,9 @@ iKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type
 iles/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmro12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmtt12.pfb>
-Output written on _main.pdf (71 pages, 3518478 bytes).
+Output written on _main.pdf (71 pages, 3519345 bytes).
 PDF statistics:
- 611 PDF objects out of 1000 (max. 8388607)
- 181 named destinations out of 1000 (max. 500000)
+ 616 PDF objects out of 1000 (max. 8388607)
+ 186 named destinations out of 1000 (max. 500000)
  14451 words of extra memory for PDF output out of 17280 (max. 10000000)
 

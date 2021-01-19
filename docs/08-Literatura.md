@@ -95,6 +95,11 @@ Ainda nesta canção Tom usa a linguagem  da negação que se transforma em afir
 
 1)  Paz na terra aos homens de boas maneiras 
 
+**MÁRIO SÉRGIO CORTELLA**
+
+1) Vaca não dá leite – Isso mesmo, a vaca não dá leite, você tem que tirar. Metáfora usada por Mário Sérgio Cortella para demonstrar que as pessoas tem que correr atrás do que almejam e não ficar esperando acontecer. Quer o leite da vaca? Vai ter que tirar, enfiando o pé no mar de merda da mangueira. 
+
+
 **ANÔNIMOS**
 
 1) É difícil ensinar truque novo prá cachorro velho.     
@@ -115,7 +120,12 @@ Ainda nesta canção Tom usa a linguagem  da negação que se transforma em afir
 16) Quem monta no lombo do tigre acaba dentro da barriga do bicho.    
 17) Se pensar, não fale. Se falar, não escreva. Se escrever não assine. Se pensar, falar, escrever e assinar depois não se surpreenda.    
 18) Ranieri Mazilli era igual absorvente: Estava no melhor lugar nos piores dias, afim de evitar derramamento de sangue.    
-    
+19) Para sujeiro enrolado qualquer coisinha é um Deus nos acuda.     
+20) A dor ensina a parir.
+21) Toque a jardiêra - siga em frente, vamo s´imbora. Ainda tem a piada com a banda de música.    
+22) Pé de manga não da jaca. 
+
+
 ##Textos garimpados aleatoriamente
 
 <div style="text-align: justify">Quando vejo e leio um texto que me impressiona, trato logo de registrá-lo em meus manuscritos e arquivos, mesmo sabendo que talvez nem tenha a oportunidade de comentar ou ler para alguém mas, mesmo assim tenho dó de deixá-lo perdido e esquecido. Seguem alguns desse registros:
