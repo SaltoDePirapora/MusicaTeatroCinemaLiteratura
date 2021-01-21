@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.4)  19 JAN 2021 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.4)  21 JAN 2021 11:08
 entering extended mode
 **./_main.tex
 (_main.tex
@@ -737,26 +737,27 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] [4
 
-] [5] [6
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+48.
+("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [5] [6
 
 ]
 Cap\'{\i }tulo 1.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-61.
-("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [7] [8] [9] [10] [11] [12] [13]
+[7] [8] [9] [10] [11] [12] [13]
 
-Package hyperref Warning: Suppressing link with empty target on input line 634.
+Package hyperref Warning: Suppressing link with empty target on input line 670.
 
 
 [14] [15] [16] [17] [18]
 
-Package hyperref Warning: Suppressing link with empty target on input line 917.
+Package hyperref Warning: Suppressing link with empty target on input line 953.
 
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 9
-27.
+63.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [19]
@@ -784,7 +785,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [40]
-Underfull \hbox (badness 10000) in paragraph at lines 2239--2294
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2330
 
  []
 
@@ -795,7 +796,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <"Imagens/""DSC04556".JPG, id=358, 2601.72pt x 3468.96pt>
 File: "Imagens/""DSC04556".JPG Graphic file (type jpg)
 <use "Imagens/""DSC04556".JPG>
-Package pdftex.def Info: "Imagens/""DSC04556".JPG  used on input line 2320.
+Package pdftex.def Info: "Imagens/""DSC04556".JPG  used on input line 2356.
 (pdftex.def)             Requested size: 500.48529pt x 667.31372pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -824,137 +825,137 @@ Cap\'{\i }tulo 3.
 [61
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3345--3347
+Underfull \hbox (badness 10000) in paragraph at lines 3381--3383
 
  []
 
 [62]
-Underfull \hbox (badness 10000) in paragraph at lines 3347--3349
+Underfull \hbox (badness 10000) in paragraph at lines 3383--3385
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3349--3351
+Underfull \hbox (badness 10000) in paragraph at lines 3385--3387
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3376--3379
+Underfull \hbox (badness 10000) in paragraph at lines 3412--3415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3379--3381
+Underfull \hbox (badness 10000) in paragraph at lines 3415--3417
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3391--3393
+Underfull \hbox (badness 10000) in paragraph at lines 3427--3429
 
  []
 
 [63]
-Underfull \hbox (badness 10000) in paragraph at lines 3489--3492
+Underfull \hbox (badness 10000) in paragraph at lines 3525--3528
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3544--3546
+Underfull \hbox (badness 10000) in paragraph at lines 3580--3582
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3546--3548
+Underfull \hbox (badness 10000) in paragraph at lines 3582--3584
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3548--3550
+Underfull \hbox (badness 10000) in paragraph at lines 3584--3586
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3550--3552
+Underfull \hbox (badness 10000) in paragraph at lines 3586--3588
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3552--3554
+Underfull \hbox (badness 10000) in paragraph at lines 3588--3590
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3554--3557
+Underfull \hbox (badness 10000) in paragraph at lines 3590--3593
 
  []
 
 [64]
-Underfull \hbox (badness 10000) in paragraph at lines 3557--3560
+Underfull \hbox (badness 10000) in paragraph at lines 3593--3596
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3560--3563
+Underfull \hbox (badness 10000) in paragraph at lines 3596--3599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3563--3565
+Underfull \hbox (badness 10000) in paragraph at lines 3599--3601
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3565--3567
+Underfull \hbox (badness 10000) in paragraph at lines 3601--3603
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3567--3569
+Underfull \hbox (badness 10000) in paragraph at lines 3603--3605
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3569--3572
+Underfull \hbox (badness 10000) in paragraph at lines 3605--3608
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3572--3574
+Underfull \hbox (badness 10000) in paragraph at lines 3608--3610
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3574--3576
+Underfull \hbox (badness 10000) in paragraph at lines 3610--3612
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3576--3579
+Underfull \hbox (badness 10000) in paragraph at lines 3612--3615
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3579--3581
+Underfull \hbox (badness 10000) in paragraph at lines 3615--3617
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3581--3584
+Underfull \hbox (badness 10000) in paragraph at lines 3617--3620
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3584--3587
+Underfull \hbox (badness 10000) in paragraph at lines 3620--3623
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3587--3589
+Underfull \hbox (badness 10000) in paragraph at lines 3623--3625
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3591--3594
+Underfull \hbox (badness 10000) in paragraph at lines 3627--3630
 
  []
 
@@ -965,47 +966,47 @@ Underfull \vbox (badness 7203) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [67]
-Overfull \hbox (5.86626pt too wide) in paragraph at lines 3755--3755
+Overfull \hbox (5.86626pt too wide) in paragraph at lines 3791--3791
 []            \T1/lmtt/m/n/12 Se você é gentil, as pessoas podem acusá-lo de eg
 oísta e interesseiro.[] 
  []
 
 
-Overfull \hbox (61.44128pt too wide) in paragraph at lines 3755--3755
+Overfull \hbox (61.44128pt too wide) in paragraph at lines 3791--3791
 []            \T1/lmtt/m/n/12 Se você é um vencedor, terá alguns falsos amigos 
 e alguns inimigos verdadeiros.[] 
  []
 
 
-Overfull \hbox (79.9663pt too wide) in paragraph at lines 3755--3755
+Overfull \hbox (79.9663pt too wide) in paragraph at lines 3791--3791
 []            \T1/lmtt/m/n/12 O que você levou anos para construir, alguém pode
  destruir de uma hora para outra.[] 
  []
 
 [68]
-Overfull \hbox (42.91628pt too wide) in paragraph at lines 3834--3834
+Overfull \hbox (42.91628pt too wide) in paragraph at lines 3870--3870
 []            \T1/lmtt/m/n/12 Ah, como esse me dá trabalho: é teimoso, às vezes
  só quer morar em um lugar.[] 
  []
 
 [69] [70]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3920.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3956.
 [71]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3920.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3956.
 (_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3920.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3920.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3956.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3956.
 
 Package rerunfilecheck Info: File `_main.out' has not changed.
 (rerunfilecheck)             Checksum: D68533A1B46CD05AF6217AD782B4802D;2197.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3920.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3956.
  ) 
 Here is how much of TeX's memory you used:
- 13916 strings out of 492453
- 201397 string characters out of 3129811
- 326846 words of memory out of 3000000
- 17662 multiletter control sequences out of 15000+200000
- 74147 words of font info for 151 fonts, out of 3000000 for 9000
+ 13922 strings out of 492453
+ 201486 string characters out of 3129811
+ 326849 words of memory out of 3000000
+ 17664 multiletter control sequences out of 15000+200000
+ 78667 words of font info for 154 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,6n,42p,970b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
@@ -1015,9 +1016,9 @@ iKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type
 iles/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmro12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmtt12.pfb>
-Output written on _main.pdf (71 pages, 3519345 bytes).
+Output written on _main.pdf (71 pages, 3521289 bytes).
 PDF statistics:
  616 PDF objects out of 1000 (max. 8388607)
  186 named destinations out of 1000 (max. 500000)
- 14451 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 16499 words of extra memory for PDF output out of 17280 (max. 10000000)
 
