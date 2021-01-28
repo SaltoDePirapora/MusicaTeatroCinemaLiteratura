@@ -114,6 +114,31 @@ próprio e grupo e [Balada para un loco](https://www.youtube.com/watch?v=w0mKWBo
 Richard Galliano é um acordeonista francês de herança italiana, nascido em 12/12/1.950 em Cannes na França. Sua performance em “La história de um amor” é digna de menção.       
 Astor Pantaleón Piazolla foi um bandoneonista e compositor argentino que nasceu em 11/3/1.921 em Mar del Plata e faleceu em 4/7/1.992 em Buenos Aires.
    
+   
+###Alguns clássicos musicais do  Jazz
+Algumas poucas pérolas do mundo do *Jazz & Blues* para  quem quiser ouvir. Basta clicar no nome da canção. Em negrito está o intérprete do vídeo apresentado. Quem gostar e tiver curiosidade pode buscar na internet outras interpretações e outras pérolas!
+
+
+  - [Take five](https://www.youtube.com/watch?v=y9aG3wUrfrE) -  **Dave Brubeck** (autor).    
+  - [Take the a train](https://www.youtube.com/watch?v=cb2w2m1JmCY) – **Duke Ellington** (autor).     
+  - [Cantaloupe island](https://www.youtube.com/watch?v=8B1oIXGX0Io) – **Herbie Hancock** (autor).      
+  - [Autumm leaves](https://www.youtube.com/watch?v=Q9vZ3hHyJL8) – **Frank Sinatra** - intérprete.      
+  - [Misty](https://www.youtube.com/watch?v=rPOlakkBlj8) – Johnny Mathis/Sarah Vaughan/**Ella Fitsgerald**/Errol Garner (piano) Stan getz (sax).      
+  - [It was a very good year](https://www.youtube.com/watch?v=20n_XhoDJdE) – **Ray Charles & Willy Nelson** - dueto.     
+  - [Time after time](https://www.youtube.com/watch?v=k8Ldbty-a8E) – **Buddy Guy**.        
+  - [Round midnight](https://www.youtube.com/watch?v=GIgLt7LAZF0) – **Miles Davis Quintet**/Chet Baker.        
+  - [I put a spell on you](https://www.youtube.com/watch?v=2UppUCB5V-w) – cantada por **Nina Simone*. Tem uma interpretação moderna da brasileira Isa, bem interessante.       
+  - [At last](https://www.youtube.com/watch?v=Iu1GoOOnlz8) – cantada por **Etta James**.        
+  - [The sky is crying](https://www.youtube.com/watch?v=HDVo3y1OYRc) – cantada por **Etta James**.        
+  - [Satin doll](https://www.youtube.com/watch?v=Gj42JotNUko) – **Duke Ellington**, Frank Sinatra  e Ella Fitsgerald.        
+  - [A nigth in Tunisia](https://www.youtube.com/watch?v=KxibMBV3nFo) – Chaka Khan, **Charlie Parker & Miles Davis**.        
+  - [Speak low](https://www.youtube.com/watch?v=b23StfuzZTo) – Sarah Vaughan, Billie Holiday e **Marisa Monte**.        
+  - [Captain  Bacardi](https://www.youtube.com/watch?v=ihJUdoJUEKA) – composição de **Tom Jobim** homenageando seu cunhado Paulo, que também interpreta ao piano.         
+  - [Whats new?](https://www.youtube.com/watch?v=yAB2dL6dGXo) – **Frank Sinatra**, John Coltrane e Billie Holiday.        
+  - [Blue moon](https://www.youtube.com/watch?v=d1PqU16gHbc) – cantada por Frank Sinatra, Billie Holiday e **Elvis Presley**.        
+  - [I've got you under my skin](https://www.youtube.com/watch?v=keenoQhY9c0) – Frank Sinatra e **Diana Krall**.        
+   
+   
 ## Música Brasileira
 
 ### O furacão Elis (livro de Regina Echerrevia)
