@@ -120,10 +120,10 @@ Ainda nesta canção Tom usa a linguagem  da negação que se transforma em afir
 16) Quem monta no lombo do tigre acaba dentro da barriga do bicho.    
 17) Se pensar, não fale. Se falar, não escreva. Se escrever não assine. Se pensar, falar, escrever e assinar depois não se surpreenda.    
 18) Ranieri Mazilli era igual absorvente: Estava no melhor lugar nos piores dias, afim de evitar derramamento de sangue.    
-19) Para sujeiro enrolado qualquer coisinha é um Deus nos acuda.     
+19) Para sujeito enrolado qualquer coisinha é um Deus nos acuda.     
 20) A dor ensina a parir.
-21) Toque a jardiêra - siga em frente, vamo s´imbora. Ainda tem a piada com a banda de música.    
-22) Pé de manga não da jaca. 
+21) Toque a jardinêra - siga em frente, vamo s´imbora. Ainda tem a piada com a banda de música.    
+22) Pé de manga não dá jaca. 
 
 
 ##Textos garimpados aleatoriamente
