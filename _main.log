@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.4)  10 APR 2021 11:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.4)  4 MAY 2021 14:44
 entering extended mode
 **./_main.tex
 (_main.tex
@@ -550,42 +550,42 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 )) (_main.aux)
 \openout1 = `_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 91.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9
-1.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+7.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 91.
-LaTeX Font Info:    ... okay on input line 91.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 91
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 87
 .
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 91.
+LaTeX Info: Redefining \microtypecontext on input line 87.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 91.
+LaTeX Info: Redefining \showhyphens on input line 87.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -594,7 +594,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring OFF on input line 91.
+Package hyperref Info: Link coloring OFF on input line 87.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty"
@@ -604,9 +604,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count128
 )
-LaTeX Info: Redefining \ref on input line 91.
-LaTeX Info: Redefining \pageref on input line 91.
-LaTeX Info: Redefining \nameref on input line 91.
+LaTeX Info: Redefining \ref on input line 87.
+LaTeX Info: Redefining \pageref on input line 87.
+LaTeX Info: Redefining \nameref on input line 87.
 (_main.out) (_main.out)
 \@outlinefile=\write3
 \openout3 = `_main.out'.
@@ -670,45 +670,40 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-<"Imagens/""O Degas".jpg, id=55, 414.54875pt x 433.62pt>
-File: "Imagens/""O Degas".jpg Graphic file (type jpg)
-<use "Imagens/""O Degas".jpg>
-Package pdftex.def Info: "Imagens/""O Degas".jpg  used on input line 93.
-(pdftex.def)             Requested size: 414.56038pt x 433.63217pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9
-3.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+9.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 9
-3.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+9.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-93.
+89.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-93.
+89.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 93.
+(Font)              <14.4> on input line 89.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 93.
+(Font)              <10> on input line 89.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 93.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+(Font)              <7> on input line 89.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -721,384 +716,391 @@ LaTeX Warning: No \author given.
 [1
 
 
-] [2{C:/Users/Vermelho/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Im
-agens/O Degas.jpg>] (_main.toc
+{C:/Users/Vermelho/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+] (_main.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 4.
+(Font)              <12> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 4.
+(Font)              <8> on input line 5.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 4.
+(Font)              <6> on input line 5.
 )
 \tf@toc=\write4
 \openout4 = `_main.toc'.
 
-[3
+[3] [4
 
-] [4
+]
+<"Imagens/""O Degas".jpg, id=95, 414.54875pt x 433.62pt>
+File: "Imagens/""O Degas".jpg Graphic file (type jpg)
+<use "Imagens/""O Degas".jpg>
+Package pdftex.def Info: "Imagens/""O Degas".jpg  used on input line 97.
+(pdftex.def)             Requested size: 414.56038pt x 433.63217pt.
+[5 <./Imagens/O Degas.jpg>] [6
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-48.
+49.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [5] [6
+) [7] [8
 
 ]
 Cap\'{\i }tulo 1.
-[7] [8] [9] [10] [11] [12] [13] [14]
+[9] [10] [11] [12] [13] [14] [15] [16]
 
-Package hyperref Warning: Suppressing link with empty target on input line 698.
+Package hyperref Warning: Suppressing link with empty target on input line 699.
 
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[15] [16]
-Underfull \hbox (badness 10000) in paragraph at lines 844--847
+[17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 845--848
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 847--850
+Underfull \hbox (badness 10000) in paragraph at lines 848--851
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 850--853
+Underfull \hbox (badness 10000) in paragraph at lines 851--854
 
  []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 853--856
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 856--860
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 861--863
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 863--866
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 866--869
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 870--873
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 873--876
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--879
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 879--882
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 882--885
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 885--888
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 888--892
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 892--895
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 895--898
-
- []
-
-[18]
-Underfull \vbox (badness 7203) has occurred while \output is active []
 
 [19]
+Underfull \hbox (badness 10000) in paragraph at lines 854--857
 
-Package hyperref Warning: Suppressing link with empty target on input line 1050
-.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--861
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--864
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--867
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--870
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 871--874
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 877--880
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 880--883
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 883--886
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 886--889
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--893
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 893--896
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 896--899
+
+ []
 
 [20]
+Underfull \vbox (badness 7203) has occurred while \output is active []
+
+[21]
+
+Package hyperref Warning: Suppressing link with empty target on input line 1051
+.
+
+[22]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-060.
+061.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[21]
+[23]
 Underfull \vbox (badness 6316) has occurred while \output is active []
 
-[22] [23]
+[24] [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[24] [25] [26] [27] [28] [29] [30] [31]
+[26] [27] [28] [29] [30] [31] [32] [33]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[32] [33] [34] [35] [36]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[37] [38]
+[34] [35] [36] [37] [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [39] [40]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[41]
+[41] [42]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 2418--2473
+[43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 2419--2474
 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[43]
-<"Imagens/""DSC04556".JPG, id=389, 2601.72pt x 3468.96pt>
+[45]
+<"Imagens/""DSC04556".JPG, id=402, 2601.72pt x 3468.96pt>
 File: "Imagens/""DSC04556".JPG Graphic file (type jpg)
 <use "Imagens/""DSC04556".JPG>
-Package pdftex.def Info: "Imagens/""DSC04556".JPG  used on input line 2499.
+Package pdftex.def Info: "Imagens/""DSC04556".JPG  used on input line 2500.
 (pdftex.def)             Requested size: 500.48529pt x 667.31372pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[44]
+[46]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[45 <./Imagens/DSC04556.JPG>] [46] [47] [48] [49] [50
+[47 <./Imagens/DSC04556.JPG>] [48] [49] [50] [51] [52
 
 ]
 Cap\'{\i }tulo 2.
 
 Underfull \vbox (badness 3849) has occurred while \output is active []
 
-[51] [52]
+[53] [54]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[53] [54] [55]
+[55] [56] [57]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[56] [57] [58] [59] [60]
+[58] [59] [60] [61] [62]
 Underfull \vbox (badness 7203) has occurred while \output is active []
 
-[61] [62]
+[63] [64]
 Cap\'{\i }tulo 3.
-[63
+[65
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 3524--3526
-
- []
-
-[64]
-Underfull \hbox (badness 10000) in paragraph at lines 3526--3528
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3528--3530
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3555--3558
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3558--3560
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3570--3572
-
- []
-
-[65]
-Underfull \hbox (badness 10000) in paragraph at lines 3668--3671
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3723--3725
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3725--3727
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3727--3729
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3729--3731
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3731--3733
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3733--3736
+Underfull \hbox (badness 10000) in paragraph at lines 3525--3527
 
  []
 
 [66]
-Underfull \hbox (badness 10000) in paragraph at lines 3736--3739
+Underfull \hbox (badness 10000) in paragraph at lines 3527--3529
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3739--3742
+Underfull \hbox (badness 10000) in paragraph at lines 3529--3531
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3742--3744
+Underfull \hbox (badness 10000) in paragraph at lines 3556--3559
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3744--3746
+Underfull \hbox (badness 10000) in paragraph at lines 3559--3561
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3746--3748
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3748--3751
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3751--3753
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3753--3755
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3755--3758
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3758--3760
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3760--3763
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3763--3766
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3766--3768
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3770--3773
+Underfull \hbox (badness 10000) in paragraph at lines 3571--3573
 
  []
 
 [67]
-Underfull \vbox (badness 7203) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 3669--3672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3724--3726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3726--3728
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3728--3730
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3730--3732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3732--3734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3734--3737
+
+ []
 
 [68]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 3737--3740
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3740--3743
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3743--3745
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3745--3747
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3747--3749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3749--3752
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3752--3754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3754--3756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3756--3759
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3759--3761
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3761--3764
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3764--3767
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3767--3769
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3771--3774
+
+ []
 
 [69]
-Overfull \hbox (5.86626pt too wide) in paragraph at lines 3934--3934
+Underfull \vbox (badness 7203) has occurred while \output is active []
+
+[70]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[71]
+Overfull \hbox (5.86626pt too wide) in paragraph at lines 3935--3935
 []            \T1/lmtt/m/n/12 Se você é gentil, as pessoas podem acusá-lo de eg
 oísta e interesseiro.[] 
  []
 
 
-Overfull \hbox (61.44128pt too wide) in paragraph at lines 3934--3934
+Overfull \hbox (61.44128pt too wide) in paragraph at lines 3935--3935
 []            \T1/lmtt/m/n/12 Se você é um vencedor, terá alguns falsos amigos 
 e alguns inimigos verdadeiros.[] 
  []
 
 
-Overfull \hbox (79.9663pt too wide) in paragraph at lines 3934--3934
+Overfull \hbox (79.9663pt too wide) in paragraph at lines 3935--3935
 []            \T1/lmtt/m/n/12 O que você levou anos para construir, alguém pode
  destruir de uma hora para outra.[] 
  []
 
-[70]
-Overfull \hbox (42.91628pt too wide) in paragraph at lines 4013--4013
+[72]
+Overfull \hbox (42.91628pt too wide) in paragraph at lines 4014--4014
 []            \T1/lmtt/m/n/12 Ah, como esse me dá trabalho: é teimoso, às vezes
  só quer morar em um lugar.[] 
  []
 
-[71] [72]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4099.
-[73]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4099.
+[73] [74]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4100.
+[75]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4100.
 (_main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4099.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4099.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4100.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4100.
 
 Package rerunfilecheck Info: File `_main.out' has not changed.
-(rerunfilecheck)             Checksum: D68533A1B46CD05AF6217AD782B4802D;2197.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4099.
+(rerunfilecheck)             Checksum: F960ED26F1B8A227C0DDAB39F906EAD5;2234.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4100.
  ) 
 Here is how much of TeX's memory you used:
- 13932 strings out of 492453
- 201716 string characters out of 3129811
- 328133 words of memory out of 3000000
+ 13931 strings out of 492453
+ 201672 string characters out of 3129811
+ 327078 words of memory out of 3000000
  17668 multiletter control sequences out of 15000+200000
- 78667 words of font info for 154 fonts, out of 3000000 for 9000
+ 74147 words of font info for 151 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,6n,42p,970b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/M
@@ -1108,9 +1110,9 @@ iKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files/MiKTeX 2.9/fonts/type
 iles/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmro12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /lm/lmtt12.pfb>
-Output written on _main.pdf (73 pages, 3533709 bytes).
+Output written on _main.pdf (75 pages, 3533619 bytes).
 PDF statistics:
- 649 PDF objects out of 1000 (max. 8388607)
- 192 named destinations out of 1000 (max. 500000)
- 16499 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 663 PDF objects out of 1000 (max. 8388607)
+ 195 named destinations out of 1000 (max. 500000)
+ 14459 words of extra memory for PDF output out of 17280 (max. 10000000)
 

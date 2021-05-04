@@ -1,25 +1,12 @@
 ---
 lang: pt-BR
 title: |
-  
-  <center>Carlinhos da Malvina: Algumas Histórias</center> 
-  
-  <center>![](Imagens/O Degas.jpg)</center>
-  
-  <center>Autor: Carlos Antunes de Souza</center>
-
+  <center>Algumas Histórias</center> 
 subtitle: |
+  <center><span style="color:blue">Carlinhos da Malvina, um bom vivant na sua própria definição: música, teatro, cinema e literatura</center>
+Author: <center>Carlos Antunes de Souza</center>
+date: <center>`r format(Sys.time(), "%d de %B de %Y")`</center>
 
-  <center><span style="color:blue">Carlinhos da Malvina, um *bom vivant* na sua própria definição: Música, Teatro, Cinema e Literatura</center>
-
-date: |
-
-  <center>`r format(Sys.time(), "%d de %B de %Y")`</center>
-
-summary_depth: 5
-summary_float:
-   collapsed: false
-   
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 fontsize: 12pt
 
@@ -35,7 +22,8 @@ link-citations: no
 github-repo: SaltoDePirapora/MusicaTeatroCinemaLiteratura
 description: "JAZZ, BLUES, MPB, LITERATURA, FILMES E OUTRAS DIVAGAÇÕES BY CARLINHOS DA MALVINA, UM BOM VIVANT NA SUA PRÓPRIA DEFINIÇÃO"
 ---
-
+#{-}
+<center>![](Imagens/O Degas.jpg)</center>
 # Introdução {-}
 <div style="text-align: justify">
 Deixando Salto de Pirapora e entrando nesse novo tema gostaria de contar que sempre fui apaixonado pela música, tanto que muitas vezes se o ritmo é empolgante e estou entusiasmado começo a dançar sozinho. Hoje nós temos muitos meios para explorar esse vasto mundo musical. Valho-me muito do sensacional YouTube que chego a ficar bestificado com tanto material ali, á disposição, que às vezes crio uma dúvida de qual vídeo quero ver primeiro. Nos meus primórdios de conhecimento musical, ali na faixa de 14 OU 15 anos me valia da Rádio Cultura Ondas Médias.    
