@@ -7,7 +7,7 @@ subtitle: |
 author:  |
   <center><div style="font-size: 25px">Carlos Antunes de Souza</center>
   <center>![](Imagens/O Degas.jpg)</center>
-date: <center>Postado em 07 de maio de 2021</center>
+date: <center>Postado em 21 de julho de 2021</center>
 
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 fontsize: 12pt
