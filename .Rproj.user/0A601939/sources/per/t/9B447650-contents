@@ -7,7 +7,7 @@ subtitle: |
 author:  |
   <center><div style="font-size: 25px">Carlos Antunes de Souza</center>
   <center>![](Imagens/O Degas.jpg)</center>
-date: <center>Postado em 07 de dezembro de 2021</center>
+date: <center>`r format(Sys.time(), "Postado em %d de %B de %Y")`</center>
 
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 fontsize: 12pt

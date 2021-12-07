@@ -1,5 +1,5 @@
-#Literatura e Outros Escritos
-
+# Literatura e Outros Escritos
+<div style="text-align: justify">
 ## A fogueira das vaidades
 <div style="text-align: justify">Esta obra literária de Tom Wolfe, prefaciada por ninguém menos que Paulo Francis, que diz que essa obra mudou a natureza dos romances americanos. Mostra o mundo dourado e glamuroso  dos “yuppies” nova iorquinos, operadores de Wall Street cujo símbolo é o enorme touro e sua força reprodutora,  valentia e ousadia. Define tais personagens como de “alta wattagem social”. Assim é o mercado de capitais onde na mesma velocidade que se constroem fortunas, fama e sucesso também se  destroem fortunas e reputações, e faz uma alegoria de   seus atores que  hoje estão no alto do “pau de sebo” mas  podem a qualquer momento escorregar vertiginosamente para o mesmo ponto de onde iniciaram a escalada: o chão, o solo onde vão rastejar saudosos dos tempos de bonança e fausto. Curioso que eu não sabia da existência do pau de sebo na cultura americana. Achava que era coisa caipira, só nossa.     
 Na história, Shermann Mc Coy trabalha num banco internacional de investimentos que ocupa nada menos do que 5 andares de um luxuoso prédio comercial em plena Wall Street. Façanha que não é para poucos mortais pois a maioria de seus operadores trabalha em pequenas salas alugadas. O filme é carregado de ironias e vocês já devem ter percebido a minha predileção por elas.    
@@ -11,11 +11,12 @@ Tom Wolfe chama pessoas dúbias de morcegos e explica a origem da alcunha: Os mo
 
 **ABRAHM LINCONL**
 
-1) Pode-se enganar alguns por muito tempo ou todos por algum tempo.  Não se pode enganar todos por todo o tempo
+1) Pode-se enganar alguns por muito tempo ou todos por algum tempo.  Não se pode enganar todos por todo o tempo.   
+2) O povo (americano) é  o senhor legítimo tanto do congresso quanto dos tribunais, não para derrubar a constituição, mas para derrubar os homens que a pervertem.   
 
 **ADAM SMITH**
 
-1) Em condições de absoluta harmonia e entendimento nunca se viu dois cães trocarem seus respectivos ossos
+1) Em condições de absoluta harmonia e entendimento nunca se viu dois cães trocarem seus respectivos ossos.
 
 **ANTONIO CARLOS JOBIM**
 
@@ -56,7 +57,7 @@ Ainda nesta canção Tom usa a linguagem  da negação que se transforma em afir
 
 **GERALDO ALCKMIN**
 
-1)  A esperteza demais come o esperto
+1)  A esperteza demais come o esperto.
 
 **ROBERTO CAMPOS**
 
@@ -72,7 +73,7 @@ Ainda nesta canção Tom usa a linguagem  da negação que se transforma em afir
 
 **NÉLIDA PIÑON**
 
- 1) Sobre Lili Marinho: Ela dosava ironia e inteligência. Tinha elegância moral
+ 1) Sobre Lili Marinho: Ela dosava ironia e inteligência. Tinha elegância moral.
 
 **NELSON RODRIGUES**
 
@@ -91,14 +92,17 @@ Ainda nesta canção Tom usa a linguagem  da negação que se transforma em afir
 
 1)  Maluco é igual relógio parado. Duas vezes por dia está certo.
 
-**AUGUSTO BOAL** – em Tempo de Guerra
+**AUGUSTO BOAL** 
 
-1)  Paz na terra aos homens de boas maneiras 
+1)  Em Tempo de Guerra: Paz na terra aos homens de boas maneiras. 
 
 **MÁRIO SÉRGIO CORTELLA**
 
 1) Vaca não dá leite – Isso mesmo, a vaca não dá leite, você tem que tirar. Metáfora usada por Mário Sérgio Cortella para demonstrar que as pessoas tem que correr atrás do que almejam e não ficar esperando acontecer. Quer o leite da vaca? Vai ter que tirar, enfiando o pé no mar de merda da mangueira. 
 
+**SIGMUND FREUD**
+
+1) O homem é dono do que cala e escravo do que fala. Quando Pedro me fala de Paulo, sei mais de Pedro do que de Paulo.   
 
 **ANÔNIMOS**
 
