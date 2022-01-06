@@ -1,13 +1,13 @@
 ---
 lang: pt-BR
 title:  |
-  <center>Algumas Histórias</center> 
+  <center><span style="color:blue">Algumas Histórias</center> 
 subtitle: |
   <center><span style="color:blue">Carlinhos da Malvina, um bom vivant na sua própria definição: música, teatro, cinema e literatura</center>
 author:  |
-  <center><div style="font-size: 25px">Carlos Antunes de Souza</center>
-  <center>![](Imagens/O Degas.jpg)</center>
-date: <center>Postado em 07 de dezembro de 2021</center>
+    <center>![](Imagens/O Degas.jpg)</center>
+    <center><div style="font-size: 25px">Carlos Antunes de Souza</center>
+date: <center>Postado em 06 de janeiro de 2022</center>
 
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 fontsize: 12pt
@@ -32,3 +32,5 @@ Deixando Salto de Pirapora e entrando nesse novo tema gostaria de contar que sem
 Não havia ainda as FMs que revolucionaram a maneira de se ouvir música. Então não se falava em emissoras FM. A Cultura sempre teve um cardápio musical refinado, isso sem entrar no mérito da música clássica, e então ali eu pude descobrir e me apaixonar por Ray Charles por exemplo. Na minha opinião um dos maiores gênios de todas as épocas pois sem poder ler as pautas, obviamente devido à sua cegueira, tinha um ouvido musical apuradíssimo. Nessa época dominavam o rádio  os bolerões com Anísio Silva, Nelson Gonçalves e os *arrebenta peito* como Vicente Celestino por exemplo. Também tinham  os de voz suave, cantando baixinho como Dick Farney (Farnésio Dutra e Silva), Tito Madi (Chaiki Maddi) e Lúcio Alves. As cantoras eram Edith Veiga, Lana Bitencourt, Maysa, Silvia Telles  e outras. Assim como o Faustão não levaria um Tom Jobim ou Elis Regina para o seu palco domingueiro as emissoras AM não tocavam Ray Charles, Frank Sinatra e Nat King Cole por exemplo. Mas a rádio Cultura OM, que só conseguíamos sintonizar à noite, apresentava esses cantores de elite, que eram um deleite para mim, com perdão do jogo de palavras. Esse entusiasmo, sem deixar de lado a boa  música brasileira, da qual sempre gostei foi carreando o meu gosto musical para essa seara de cantores e músicas um pouco fora do circuito comercial. Felizmente não havia na época as *fábricas de sucesso* tipo Som Livre e assemelhadas. Havia ótimos programas de rádio como o de Solano Lopes, Hélio Ribeiro,  César de Alencar no Rio de Janeiro e muitos outros que divulgavam as músicas, acredito que mais pela qualidade do que pelo jabá (jabaculê). Depois veio a loucura de Big Boy, que também curtíamos  madrugada adentro, pois a Rádio Mundial do Rio de Janeiro só conseguíamos sintonizar depois da meia noite.      
 O que me ajudou muito a valorizar a música instrumental foram os programas do Sesc Instrumental, às segundas feiras no Sesc Avenida Paulista. Ali aprendi a ouvir o baixo (seja de pau ou elétrico), que antes considerava um instrumento que não servia para nada. Aprender a ouvi-lo me fez valorizar o quanto esse instrumento é importante  na formação dos grupos, bem como a distinguir um violão 7 cordas e até o fraseado do piano, que faz o seu próprio baixo.     
 Quanto à vida noturna tive a oportunidade de garimpar verdadeiras jóias musicais, como conto adiante. Pude assistir grandes espetáculos musicais em palcos do Sesc, Tom Brasil, Anhembi, Palace em Moema, o saudoso Olympia na Rua Clélia, na Lapa, onde vi Tom Jobim, a casa de espetáculos no sub solo do Shopping Eldorado, onde vi Rosimeire, as casas da Rua Fran Schubert: Limeligth, Kremlin e Stardust. Esta em particular contarei mais detalhadamente. E tantas e tantas outras: Plano´s Bar nos Jardins, Baretto e Passatempo no Itaim Bibi, etc. etc. e bota etc. nisso. 
+
+**Editor:** atua como auxiliar na edição destas reminiscências Antonio José Ribeiro Dias, natural de Salto de Pirapora, filho do Lili e da Rosa, hoje vivendo no Rio de Janeiro e, um pouco, em Juiz de Fora. Para quem ainda não ligou o nome a pessoa, ele também é conhecido como Vermelho, Zug, Chacrinha e Toninho da Dona Rosa, dentre outros apodos, como gosta de escrever o Carlinhos.
