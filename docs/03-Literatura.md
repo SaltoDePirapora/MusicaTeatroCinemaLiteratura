@@ -474,7 +474,7 @@ Ele era assim: metódico, sistemático, planejador e executor ferrenho de tarefa
 
 -   Obras Assistenciais Dona Filhinha
 
-Além a inúmeros programas de obras sociais nas paróquias de São Paulo.
+Além de inúmeros programas e obras sociais nas paróquias de São Paulo.
 
 Tem um episódio que mostra a qualidade do atendimento aos internados pelo SUS na Beficiência, carinhosamente chamada em São Paulo de Benê: sentado no leito de um paciente ouviu dele que estava triste porquê iria ganhar alta. Ermírio argumentou que esse deveria ser um motivo de alegria, e não de tristeza, ao que o homem respondeu: *No barraco onde moro nunca terei uma cama gostosa como esta e lençóis trocados todos os dias, banhos quentinhos e uma ótima comida. Saio do hospital e volto para o pior*.
 
