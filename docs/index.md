@@ -7,7 +7,7 @@ subtitle: |
 author:  |
     <center>![](Imagens/O Degas.jpg)</center>
     <center><div style="font-size: 25px">Carlos Antunes de Souza</center>
-date: <center>Postado em 07 de agosto de 2022</center>
+date: <center>Postado em 16 de agosto de 2022</center>
 
 geometry: "left=2cm,right=2cm,top=2cm,bottom=2cm"
 fontsize: 12pt
