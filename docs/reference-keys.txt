@@ -70,3 +70,5 @@ a-fogueira-das-vaidades
 frases-epistolares
 textos-garimpados-aleatoriamente
 antônio-ermírio-de-moraes-um-grande-brasileiro
+bookdownpdf_book-default
+dona-veridiana
