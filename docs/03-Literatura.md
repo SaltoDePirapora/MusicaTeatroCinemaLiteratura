@@ -49,41 +49,90 @@ Por isso não sai durante o dia para que ninguém descubra a dualidade da sua fo
 Ou seja: não quer que ninguém veja as suas duas máscaras.
 
 <div style="text-align: justify">
+
 ## Dona Veridiana
+
 <div style="text-align: justify">
 
-Esta mulher forte e com grande tino para os negócios foi um ícone da sociedade paulistana e muito contribuiu para o progresso da metrópole e, consequentemente, para o país por volta de 1.860. Neste livro, escrito por Luiz Felipe D´Ávila, que com muita competência narra a saga da família Prado, dá para entender a grandeza dessa família e a sua contribuição ao país em todos os sentidos: negócios, socialização e enobrecimento da elite, notadamente na questão cultural e nos bons modos absorvidos por ela em Paris.    
+Esta mulher forte e com grande tino para os negócios foi um ícone da sociedade paulistana e muito contribuiu para o progresso da metrópole e, consequentemente, para o país por volta de 1.860.
+Neste livro, escrito por Luiz Felipe D´Ávila, que com muita competência narra a saga da família Prado, dá para entender a grandeza dessa família e a sua contribuição ao país em todos os sentidos: negócios, socialização e enobrecimento da elite, notadamente na questão cultural e nos bons modos absorvidos por ela em Paris.
 
-O autor foi candidato a Presidência da República nas eleições de 15 de outubro de 2022. É casado com a filha de Abílio Diniz e pertence à classe média alta paulistana. Garimpou muitos textos importantes que dão ainda mais valor à sua narrativa. Sempre colocou entre aspas as citações de outros autores que também se debruçaram sobre a história do nosso país, notadamente a de São Paulo. Publicou diversos livros como **Brasil, uma democracia em perigo**, em 1.990, que foi o seu livro de estreia. Publicou também **As constituições brasileiras** e **O crepúsculo de uma era**. Meu amigo de Campinas,  José Antônio Rocha, leitor contumaz e observador arguto já garimpou que ele tem nove livros publicados.    
+O autor foi candidato a Presidência da República nas eleições de 15 de outubro de 2022.
+É casado com a filha de Abílio Diniz e pertence à classe média alta paulistana.
+Garimpou muitos textos importantes que dão ainda mais valor à sua narrativa.
+Sempre colocou entre aspas as citações de outros autores que também se debruçaram sobre a história do nosso país, notadamente a de São Paulo.
+Publicou diversos livros como **Brasil, uma democracia em perigo**, em 1.990, que foi o seu livro de estreia.
+Publicou também **As constituições brasileiras** e **O crepúsculo de uma era**.
+Meu amigo de Campinas, José Antônio Rocha, leitor contumaz e observador arguto já garimpou que ele tem nove livros publicados.
 
-Dona Veridiana Prado, hoje nome de rua em São Paulo nas imediações do Mackenzie, bem como seus filhos que também nomeiam ruas e instituições da capital paulista: Praça Antônio Prado, Liceu Eduardo Prado, Rua Martinico Prado etc. etc.    
+Dona Veridiana Prado, hoje nome de rua em São Paulo nas imediações do Mackenzie, bem como seus filhos que também nomeiam ruas e instituições da capital paulista: Praça Antônio Prado, Liceu Eduardo Prado, Rua Martinico Prado etc. etc.
 
-Filha de Antônio Prado, o barão de Iguape, título concedido por Dom Pedro II enriqueceu com o comércio de muares, trazidos do Rio Grande do Sul, negociados em Sorocaba no Largo do Divino e outras praças, e dali levados principalmente para o Rio de Janeiro onde a corte demandava e muito a necessidade de compra de muares e equinos. Com muito tino e perspicácia para os negócios foi adquirindo terras na região de Sorocaba e Jundiaí onde montou fazendas exemplares para o cultivo do café. A cana-de-açúcar entrava em declínio e os Barões do açúcar estavam vendo seu poderio se esfacelar. O Barão se preocupava com a qualidade e modernidade das lavouras e zelava para que seus custos não exorbitassem e engolissem a margem de lucro.     
-Em resumo, com uma visão extraordinária e muito tino para os negócios foi o precursor da cultura do valorizado grão negro e influenciou muitos outros, inclusive da família, a entrar de corpo e alma no negócio. Na época o café tornou-se o produto mais exportado do Brasil Imperial e muito valorizado no exterior por sua qualidade.    
+Filha de Antônio Prado, o barão de Iguape, título concedido por Dom Pedro II enriqueceu com o comércio de muares, trazidos do Rio Grande do Sul, negociados em Sorocaba no Largo do Divino e outras praças, e dali levados principalmente para o Rio de Janeiro onde a corte demandava e muito a necessidade de compra de muares e equinos.
+Com muito tino e perspicácia para os negócios foi adquirindo terras na região de Sorocaba e Jundiaí onde montou fazendas exemplares para o cultivo do café.
+A cana-de-açúcar entrava em declínio e os Barões do açúcar estavam vendo seu poderio se esfacelar.
+O Barão se preocupava com a qualidade e modernidade das lavouras e zelava para que seus custos não exorbitassem e engolissem a margem de lucro.\
 
-Veridiana, nascida em 1825, assumiu os empreendimentos do avô e, com grande competência, só fez aumentar a fortuna dos Prados. Seu filho, também chamado Antônio Prado, foi nomeado conselheiro pelo Imperador, herdou o tino da mãe e do avô, de quem herdou o nome, para expandir os negócios e a riqueza da família. Transitou pela política de vereador a deputado e depois prefeito da **Paulicéia da vertigem** (excelente livro de Roberto Pompeu de Toledo, que descreve essa transmutação de uma cidade caipira, feia e mal cuidada para uma vibrante metrópole, ombreando com as maiores do mundo). Para isto muito contribuiu o Conselheiro Antônio Prado que, como prefeito por quatro vezes, uma por nomeação e três por eleições, alargou e retificou avenidas, como a Tiradentes, por exemplo. Reurbanizou o feioso Vale do Anhangabaú, um verdadeiro matagal e com vista para os fundos das casinhas da Líbero Badaró. Mandou plantar  milhares de árvores que deram à Pauliceia um ar  de Paris. Chamou renomados arquitetos e paisagistas daqui e do exterior e mandou construir o Jardim da Luz, com um coreto onde trouxe maravilhosas orquestras para se apresentar. Dessa forma deu a conhecer à elite e também à classe operária os grandes compositores clássicos. Ainda hoje o Jardim da Luz apresenta resquícios da sua grandeza dos tempos do Conselheiro. Estive lá na Pinacoteca (antigo Liceu de Artes e Ofícios) e pude ver no Jardim da Luz o lago em formato de cruz de Malta, a vegetação remanescente e inclusive a árvore onde se escondiam moedas nos frutos, antigamente. O formato dos frutos se assemelha às casinhas do João de Barro, com uma abertura curva de difícil acesso ao seu interior. As frutas cresciam mais ou menos do tamanho de um abacate e as moedas ficavam ali armazenadas e escondidas.      
+Em resumo, com uma visão extraordinária e muito tino para os negócios foi o precursor da cultura do valorizado grão negro e influenciou muitos outros, inclusive da família, a entrar de corpo e alma no negócio.
+Na época o café tornou-se o produto mais exportado do Brasil Imperial e muito valorizado no exterior por sua qualidade.
 
-Encomendou a Ramos de Azevedo, o projeto do  majestoso Theatro Municipal no morro do Chá. Também reformou e modernizou o Viaduto do Chá. Antes da existência desse viaduto os transeuntes que vinham do Centro Velho (XV de novembro, etc) e demandavam o outro lado da cidade (Barão de Itapetininga, etc) tinham que descer o vale do Anhangabaú cheio de mato, escuro e perigoso, transpor o riacho do Anhangabaú, molhando os pés,  e galgar a ladeira do outro lado, também em condições deploráveis de conservação. No Ipiranga mandou construir o imponente e moderno Museu onde foi implantado  um jardim com desenhos e topiaria dignos do Palácio de Versalhes.     
+Veridiana, nascida em 1825, assumiu os empreendimentos do avô e, com grande competência, só fez aumentar a fortuna dos Prados.
+Seu filho, também chamado Antônio Prado, foi nomeado conselheiro pelo Imperador, herdou o tino da mãe e do avô, de quem herdou o nome, para expandir os negócios e a riqueza da família.
+Transitou pela política de vereador a deputado e depois prefeito da **Paulicéia da vertigem** (excelente livro de Roberto Pompeu de Toledo, que descreve essa transmutação de uma cidade caipira, feia e mal cuidada para uma vibrante metrópole, ombreando com as maiores do mundo).
+Para isto muito contribuiu o Conselheiro Antônio Prado que, como prefeito por quatro vezes, uma por nomeação e três por eleições, alargou e retificou avenidas, como a Tiradentes, por exemplo.
+Reurbanizou o feioso Vale do Anhangabaú, um verdadeiro matagal e com vista para os fundos das casinhas da Líbero Badaró.
+Mandou plantar milhares de árvores que deram à Pauliceia um ar de Paris.
+Chamou renomados arquitetos e paisagistas daqui e do exterior e mandou construir o Jardim da Luz, com um coreto onde trouxe maravilhosas orquestras para se apresentar.
+Dessa forma deu a conhecer à elite e também à classe operária os grandes compositores clássicos.
+Ainda hoje o Jardim da Luz apresenta resquícios da sua grandeza dos tempos do Conselheiro.
+Estive lá na Pinacoteca (antigo Liceu de Artes e Ofícios) e pude ver no Jardim da Luz o lago em formato de cruz de Malta, a vegetação remanescente e inclusive a árvore onde se escondiam moedas nos frutos, antigamente.
+O formato dos frutos se assemelha às casinhas do João de Barro, com uma abertura curva de difícil acesso ao seu interior.
+As frutas cresciam mais ou menos do tamanho de um abacate e as moedas ficavam ali armazenadas e escondidas.
 
-Em resumo, modernizou a cidade desde o seu traçado e suas ruas barrentas, transformando-as em  importantes vias  e bulevares elegantes onde a sociedade fazia o footing no famoso Triângulo formado pelas ruas Direita, São Bento e XV de novembro. Dona Veridiana nasceu num sobrado na esquina da rua Direita, com São Bento, hoje a praça do Patriarca, em 1.825. O Conselheiro sempre preocupado com a cultura, a socialização da metrópole emergente inclusive na parte dos esportes incentivou e frequentou os novos clubes Espéria e Clube de Regatas do Tietê, formados por sua iniciativa. O Regatas foi um grande celeiro de nadadores profissionais de grande sucesso.    
+Encomendou a Ramos de Azevedo, o projeto do majestoso Theatro Municipal no morro do Chá.
+Também reformou e modernizou o Viaduto do Chá.
+Antes da existência desse viaduto os transeuntes que vinham do Centro Velho (XV de novembro, etc) e demandavam o outro lado da cidade (Barão de Itapetininga, etc) tinham que descer o vale do Anhangabaú cheio de mato, escuro e perigoso, transpor o riacho do Anhangabaú, molhando os pés, e galgar a ladeira do outro lado, também em condições deploráveis de conservação.
+No Ipiranga mandou construir o imponente e moderno Museu onde foi implantado um jardim com desenhos e topiaria dignos do Palácio de Versalhes.
 
-Comparecia com toda a família aos concertos no Jardim da Luz, estimulando o hábito social e cultural que se irradiou na população. Poderia muito bem estar vendo tais espetáculos em Paris, por exemplo e aqui manter-se enclausurado com sua família no seu esplêndido palacete, mas sempre prestigiou os espetáculos da sua adorada Paulicéia. Nobres e populares compareciam e prestigiavam os mesmos espetáculos, o que fazia florescer a cidadania e proliferar os bons hábitos sociais em uma emergente metrópole.
-Além da Prefeitura acumulava cargos e participação na casa exportadora Prado Chaves (em sociedade com seu cunhado Pacheco Chaves), o Banco do Comércio e Indústria, a Companhia Paulista de Trens, depois Sorocabana e até a Vidraria Santa Marina, pioneira no Brasil, além de uma pioneira companhia de bondes elétricos que substitui as linhas movidas a burro e depois movidas a gás. Na linha que subia a atual Avenida Consolação os bondes eram puxados por duas parelhas de burros que revezavam no meio do trajeto. Havia apenas uma linha para os bondes e no ponto de encontro a linha se bifurcava. O motorneiro assobiava e se não recebesse resposta seguia o trajeto. Caso positivo desviava o bonde para o lado direito para que o outro passasse em sentido contrário.      
+Em resumo, modernizou a cidade desde o seu traçado e suas ruas barrentas, transformando-as em importantes vias e bulevares elegantes onde a sociedade fazia o footing no famoso Triângulo formado pelas ruas Direita, São Bento e XV de novembro.
+Dona Veridiana nasceu num sobrado na esquina da rua Direita, com São Bento, hoje a praça do Patriarca, em 1.825.
+O Conselheiro sempre preocupado com a cultura, a socialização da metrópole emergente inclusive na parte dos esportes incentivou e frequentou os novos clubes Espéria e Clube de Regatas do Tietê, formados por sua iniciativa.
+O Regatas foi um grande celeiro de nadadores profissionais de grande sucesso.
 
-Também por sua iniciativa foi criado o Liceu de Artes e Ofícios, que gerou grandes oficiais da marcenaria, por exemplo, recebendo aulas de imigrantes italianos, que trouxeram sua arte da terra natal, muito famosa por ter a melhor movelaria do planeta na época. Ou seja, era um homem multitarefas que levantava muito cedo e se desdobrava em suas múltiplas atividades. Às 6 horas da manhã montava seu pomposo baio e ia vistoriar as obras da prefeitura à cavalo. Tinha também um haras em sua chácara. Indagado porque não utilizava a carruagem argumentava que era muito mais fácil acessar obras em locais inatingíveis pela carruagem.
-Durante os dez anos que governou, modernizou a cidade, tornado-a elegante. Ele foi na verdade a grande mola propulsora que catapultou um “burgo caipira” para uma das cidades mais pujantes e vibrantes do mundo. Antes dessa mudança São Paulo ficava atrás de Recife e Rio de Janeiro, por exemplo. 
+Comparecia com toda a família aos concertos no Jardim da Luz, estimulando o hábito social e cultural que se irradiou na população.
+Poderia muito bem estar vendo tais espetáculos em Paris, por exemplo e aqui manter-se enclausurado com sua família no seu esplêndido palacete, mas sempre prestigiou os espetáculos da sua adorada Paulicéia.
+Nobres e populares compareciam e prestigiavam os mesmos espetáculos, o que fazia florescer a cidadania e proliferar os bons hábitos sociais em uma emergente metrópole.
+Além da Prefeitura acumulava cargos e participação na casa exportadora Prado Chaves (em sociedade com seu cunhado Pacheco Chaves), o Banco do Comércio e Indústria, a Companhia Paulista de Trens, depois Sorocabana e até a Vidraria Santa Marina, pioneira no Brasil, além de uma pioneira companhia de bondes elétricos que substitui as linhas movidas a burro e depois movidas a gás.
+Na linha que subia a atual Avenida Consolação os bondes eram puxados por duas parelhas de burros que revezavam no meio do trajeto.
+Havia apenas uma linha para os bondes e no ponto de encontro a linha se bifurcava.
+O motorneiro assobiava e se não recebesse resposta seguia o trajeto.
+Caso positivo desviava o bonde para o lado direito para que o outro passasse em sentido contrário.
 
-Como escreve o autor:     
+Também por sua iniciativa foi criado o Liceu de Artes e Ofícios, que gerou grandes oficiais da marcenaria, por exemplo, recebendo aulas de imigrantes italianos, que trouxeram sua arte da terra natal, muito famosa por ter a melhor movelaria do planeta na época.
+Ou seja, era um homem multitarefas que levantava muito cedo e se desdobrava em suas múltiplas atividades.
+Às 6 horas da manhã montava seu pomposo baio e ia vistoriar as obras da prefeitura à cavalo.
+Tinha também um haras em sua chácara.
+Indagado porque não utilizava a carruagem argumentava que era muito mais fácil acessar obras em locais inatingíveis pela carruagem.
+Durante os dez anos que governou, modernizou a cidade, tornado-a elegante.
+Ele foi na verdade a grande mola propulsora que catapultou um "burgo caipira" para uma das cidades mais pujantes e vibrantes do mundo.
+Antes dessa mudança São Paulo ficava atrás de Recife e Rio de Janeiro, por exemplo.
 
-1 - “Os Prados aprenderam rapidamente as lições da vida pública. A primeira ensinou-lhes que na “política não há amigos ou inimigos permanentes, mas há apenas interesses permanentes” como pregava Bismarck, o maior estadista alemão da segunda metade do século XIX” deu-lhe ares de metrópole moderna, desenvolvida”.    
-2 – “Fiéis discípulos de Adam Smith, os Prados acreditavam que o comércio gerava riqueza, estimulava a produção de bens, atraía investimentos e ajudava São Paulo a prosperar e, evidentemente, contribuía para o enriquecimento do clã”.   
+Como escreve o autor:
 
-3 – “As principais ruas e avenidas foram alargadas, arborizadas e receberam calçamento. Um denso corredor de espaços ajardinados conjugados foi criado, partindo dos parques da Aclimação e do Ipiranga que se ligavam ao parque Dom Pedro II, de estilo inglês, aos pés da colina central”.     
+1 - "Os Prados aprenderam rapidamente as lições da vida pública. A primeira ensinou-lhes que na "política não há amigos ou inimigos permanentes, mas há apenas interesses permanentes" como pregava Bismarck, o maior estadista alemão da segunda metade do século XIX" deu-lhe ares de metrópole moderna, desenvolvida".\
+2 -- "Fiéis discípulos de Adam Smith, os Prados acreditavam que o comércio gerava riqueza, estimulava a produção de bens, atraía investimentos e ajudava São Paulo a prosperar e, evidentemente, contribuía para o enriquecimento do clã".
 
-Do Barão de Iguape, que gostava de mulheres e homens fortes, fazedores e não pensadores, acomodados e conformados, herdou a personalidade, a persistência e o amor ao trabalho e ao sucesso. Pai de Veridiana e avô do Conselheiro Antônio Prado, o velho Antônio Prado, fez a grande evolução  de tropeiro para fazendeiro. Seu neto herdou dele a obstinação, a persistência e a dedicação para aumentar o patrimônio da família e comandar a transformação da cidade que amava e que  tão bem administrou com grande competência.
-Isto me faz pensar que essa classe de políticos visionários, fortes, dedicados e principalmente honestos e realmente empenhados na administração pública com amor não prosperou. Para mim a atuação desse fantástico empreendedor é a verdadeira essência da política. Quase tudo que veio depois deturpou a ideia da política. Esta derivada da palavra “polis” ou “metrópolis” seria esse modelo de comportamento do Conselheiro mas, foi se desvirtuando completamente, com raras exceções, no exercício dos interesses, conluios e, principalmente, na intenção de se dar bem a qualquer preço, sem escrúpulos com a desonestidade e o mau-caratismo sobrepujando seus interesses aos da coisa pública.
-“A maioria dos políticos de carreira tem uma visão deturpada da realidade e um currículo sofrível de realizações, porque lhes falta vivência prática e objetiva do mundo dos negócios. A distância das atividades empresariais faz com que o político perca o pulso da realidade da economia e teorize sobre as soluções para questões que desconhece”, como escreve o autor da obra.
-Dona Veridiana, uma obra apaixonante de 456 páginas, que li praticamente de um fôlego só (vinte dias mais ou menos) descortina esse cenário de época, interessantíssimo, pelo qual vislumbramos esse grande salto de qualidade que nossa São Paulo deu nos meados do século XIX. Graças à esse grande homem, excelente administrador, visionário e muito atento às modernidades em todos os seus aspectos a nossa Paulicéia alçou os píncaros da pujança e do sucesso.
+3 -- "As principais ruas e avenidas foram alargadas, arborizadas e receberam calçamento. Um denso corredor de espaços ajardinados conjugados foi criado, partindo dos parques da Aclimação e do Ipiranga que se ligavam ao parque Dom Pedro II, de estilo inglês, aos pés da colina central".
+
+Do Barão de Iguape, que gostava de mulheres e homens fortes, fazedores e não pensadores, acomodados e conformados, herdou a personalidade, a persistência e o amor ao trabalho e ao sucesso.
+Pai de Veridiana e avô do Conselheiro Antônio Prado, o velho Antônio Prado, fez a grande evolução de tropeiro para fazendeiro.
+Seu neto herdou dele a obstinação, a persistência e a dedicação para aumentar o patrimônio da família e comandar a transformação da cidade que amava e que tão bem administrou com grande competência.
+Isto me faz pensar que essa classe de políticos visionários, fortes, dedicados e principalmente honestos e realmente empenhados na administração pública com amor não prosperou.
+Para mim a atuação desse fantástico empreendedor é a verdadeira essência da política.
+Quase tudo que veio depois deturpou a ideia da política.
+Esta derivada da palavra "polis" ou "metrópolis" seria esse modelo de comportamento do Conselheiro mas, foi se desvirtuando completamente, com raras exceções, no exercício dos interesses, conluios e, principalmente, na intenção de se dar bem a qualquer preço, sem escrúpulos com a desonestidade e o mau-caratismo sobrepujando seus interesses aos da coisa pública.
+"A maioria dos políticos de carreira tem uma visão deturpada da realidade e um currículo sofrível de realizações, porque lhes falta vivência prática e objetiva do mundo dos negócios. A distância das atividades empresariais faz com que o político perca o pulso da realidade da economia e teorize sobre as soluções para questões que desconhece", como escreve o autor da obra.
+Dona Veridiana, uma obra apaixonante de 456 páginas, que li praticamente de um fôlego só (vinte dias mais ou menos) descortina esse cenário de época, interessantíssimo, pelo qual vislumbramos esse grande salto de qualidade que nossa São Paulo deu nos meados do século XIX.
+Graças à esse grande homem, excelente administrador, visionário e muito atento às modernidades em todos os seus aspectos a nossa Paulicéia alçou os píncaros da pujança e do sucesso.
 
 ## Frases epistolares
 
@@ -234,7 +283,8 @@ Seguem alguns desse registros:
 
 **Apelidos para o famoso Orifício Anal**
 
-Fusquete, Fiofó, Fiantã, Zóio de dorco, Sessenta fôia, Tarraqueta, Buzanfa, Cagadô, Argola, Briôco, Bozó, Bóga, Butico, Caga Barro, Casa de bilau, Cofre, Copinho, Cortador de churros, Cedém, Xibiu (também usado para vagina), Cruaca, Fedegoso, Fedorento, Fusquete, Forévis (Mussum), Ilhóis, Pregas (em volta do respectivo), Anel de couro, Anel de pregas, Anel rosqueado, Apito, Auréola, Bufador, Buraco negro, Bizuim, Briozo, Butão ou Botão, Carretel, Furico, Cucurico, Dedar (nos dois sentidos), Fantástica fábrica de chocolates, Figueiredo, Fiu fiu, Flatoriante, Fragoso (de fragância), Fresado, Furiquete, Junção pregal, Loló, Olho de trás, Orifício bufante, Orifício de escape, Piscante, Peidante, Preguiado, Rabiola, Rabicó, Redondo, Roscóf, Rozeta, Reto, Ruela, Sonoro, Soprador, Tóba, Trovador, Urna, Vintém, Zerinho, Anér -- eita anér pá sofrê (sofrê foi gíria recorrente em SP nos anos 60), Chipuco – Ah, vai tomá no chipuco. Tem Até Em Latim: Pimentorium in anus outrem refrescus est.
+Fusquete, Fiofó, Fiantã, Zóio de dorco, Sessenta fôia, Tarraqueta, Buzanfa, Cagadô, Argola, Briôco, Bozó, Bóga, Butico, Caga Barro, Casa de bilau, Cofre, Copinho, Cortador de churros, Cedém, Xibiu (também usado para vagina), Cruaca, Fedegoso, Fedorento, Fusquete, Forévis (Mussum), Ilhóis, Pregas (em volta do respectivo), Anel de couro, Anel de pregas, Anel rosqueado, Apito, Auréola, Bufador, Buraco negro, Bizuim, Briozo, Butão ou Botão, Carretel, Furico, Cucurico, Dedar (nos dois sentidos), Fantástica fábrica de chocolates, Figueiredo, Fiu fiu, Flatoriante, Fragoso (de fragância), Fresado, Furiquete, Junção pregal, Loló, Olho de trás, Orifício bufante, Orifício de escape, Piscante, Peidante, Preguiado, Rabiola, Rabicó, Redondo, Roscóf, Rozeta, Reto, Ruela, Sonoro, Soprador, Tóba, Trovador, Urna, Vintém, Zerinho, Anér -- eita anér pá sofrê (sofrê foi gíria recorrente em SP nos anos 60), Chipuco -- Ah, vai tomá no chipuco.
+Tem Até Em Latim: Pimentorium in anus outrem refrescus est.
 
 **GLORINHA KALIL: SER CHIQUE**
 

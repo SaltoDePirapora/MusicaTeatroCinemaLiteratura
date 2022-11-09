@@ -6,7 +6,7 @@ language:
   ui:
     chapter_name: "Capítulo - "
 output_dir: "docs"
-rmd_files: ["index.Qmd","01-JazzBlues.Qmd","02-TeatroCinema.Qmd","03-Literatura.Qmd"]
+rmd_files: ["index.Rmd","00-Intro.Rmd","01-JazzBlues.Rmd","02-TeatroCinema.Rmd","03-Literatura.Rmd"]
 clean: [historias.bbl]
 new_session: yes
 delete_merged_file: TRUE
